@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BankCard
+comment1.params=balance_amount\ cardId\ bank_account\ issuer_bank
+comment1.target=BankCard(int,\ int,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getBalance_amount()
+comment2.text=accessor\ methods\ to\ return\ the\ value\ of\ the\ attributes\r\n\ as\ all\ the\ attributes\ in\ the\ bank\ cars\ class\ are\ private\r\n
+comment3.params=
+comment3.target=int\ getCardId()
+comment4.params=
+comment4.target=java.lang.String\ getBank_account()
+comment5.params=
+comment5.target=java.lang.String\ getIssuer_bank()
+comment6.params=
+comment6.target=java.lang.String\ getClient_name()
+comment7.params=client_name
+comment7.target=void\ setClientname(java.lang.String)
+comment7.text=mutator\ method\ to\ set\ the\ value\ of\ the\ attributes\ client_name\ and\ balance_amount\r\n\ as\ all\ the\ attributes\ in\ this\ class\ are\ private\r\n
+comment8.params=balance_amount
+comment8.target=void\ setBalanceamount(int)
+comment9.params=
+comment9.target=void\ display()
+numComments=10
